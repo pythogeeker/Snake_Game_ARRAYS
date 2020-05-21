@@ -7,7 +7,7 @@ Snake Game was the first game played by me in my childhood.I always wanted to cr
 4. Boundary constraints (very imp)
 5. and various other features
 
-##Preview
+## Preview
 
 ![](Assets/preview.png)
 ![](Assets/game_over.png)
